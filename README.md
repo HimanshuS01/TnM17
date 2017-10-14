@@ -23,4 +23,24 @@ This feature helps Attendees to navigate to particular event that shows the comp
 
 ### Screenshots
 
+<p align="center">
+  <img src="images/ss1.jpeg" width="250"/>&nbsp;
+  <img src="images/ss2.jpeg" width="250"/>&nbsp;
+  <img src="images/ss3.jpeg" width="250"/>
+</p>
+<p align="center">
+  <img src="images/ss4.jpeg" width="250"/>&nbsp;
+  <img src="images/ss5.jpeg" width="250"/>&nbsp;
+  <img src="images/ss11.jpeg" width="250"/>
+</p>
+<p align="center">
+  <img src="images/ss6.jpeg" width="250"/>&nbsp;
+  <img src="images/ss7.jpeg" width="250"/>&nbsp;
+  <img src="images/ss8.jpeg" width="250"/>
+</p>
+<p align="center">
+  <img src="images/ss9.jpeg" width="250"/>&nbsp;
+  <img src="images/ss10.jpeg" width="250"/>&nbsp;
+</p>
+
 
