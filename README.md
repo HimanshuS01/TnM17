@@ -34,6 +34,11 @@ This feature helps Attendees to navigate to particular event that shows the comp
   <img src="images/ss11.png" width="250"/>
 </p>
 <p align="center">
+  <img src="images/ss12.png" width="250"/>&nbsp;
+  <img src="images/ss13.png" width="250"/>&nbsp;
+  <img src="images/ss14.png" width="250"/>
+</p>
+<p align="center">
   <img src="images/ss6.png" width="250"/>&nbsp;
   <img src="images/ss7.png" width="250"/>&nbsp;
   <img src="images/ss8.png" width="250"/>
